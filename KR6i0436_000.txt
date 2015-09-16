@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說自愛經
+#+DATE: 2015-08-30 20:19:35.418821
+#+PROPERTY: JUAN 0
