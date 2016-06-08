@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:35.247638
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:36
 #+TITLE: 佛說自愛經
 #+PROPERTY: CBETA_ID T17n0742
 #+PROPERTY: ID KR6i0436
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 742
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0436_T_001-0548c> 
 #+PROPERTY: JUAN 1
 ¶
-No.742¶
-
- 《佛說自愛經》¶
+No. 742¶
+《佛說自愛經》¶
 ¶
 東晉天竺三藏竺曇無蘭譯¶
 
@@ -170,9 +169,9 @@ No.742¶
 　中心念善，¶
 　即言即行，
 　福樂自追，
-　如影隨形。」
+　如影隨形。」」
 #+END_VERSE
-」¶
+¶
 
 世尊又告王曰：「眾惡之罪，最重有五。不孝不¶
 忠，殺親殺君，家滅國亂，重罪一也。羅漢之¶
